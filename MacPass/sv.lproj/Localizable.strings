@@ -1,0 +1,227 @@
+﻿/* Formatted Times  */
+"%ld_DAYS_AGO" = "%ld dagar sedan";
+"%ld_HOURS_AGO" = "kring %ld timmar sedan";
+"%ld_MINUTES_AGO" = "%ld minuter sedan";
+"%ld_WEEKS_AGO" = "%ld veckor sedan";
+"JUST_NOW" = "Precis nu";
+"LAST_WEEK" = "Senaste veckan";
+"ONE_WEEK_AGO" = "En vecka sedan";
+"YESTERDAY" = "Igår";
+"TOMORROW" = "Imorgon";
+"ONE_WEEK" = "Om en vecka";
+"ONE_MONTH" = "Om en månad";
+"90_DAYS" = "Om 90 dagar";
+"ONE_YEAR" = "Om ett år";
+
+/* Date Picker */
+"SELECT_DATE_PRESET" = "Använd mall…";
+
+/* Menu item for automatic trash creation */
+"AUTOCREATE_TRASH_FOLDER" = "Skapa Automatiskt";
+
+/*
+ Actions
+ */
+"ADD_ENTRY" = "Lägg Till Entry";
+"ADD_GROUP" = "Lägg Till Group";
+"DUPLICATE_ENTRY" = "Duplikera Entry";
+"DUPLICATE_ENTRY_WITH_OPTIONS" = "Duplikera Entry…";
+"COPY_ENTRY" = "Copy Entry";
+"COPY_GROUP" = "Copy Group";
+"ADD_TREMPLATE_ENTRY" = "Create Template Entry";
+"DELETE_GROUP" = "Delete Group";
+"DELETE_ENTRY" = "Delete Entry";
+"EDIT_TEMPLATE_GROUP" = "Redigera Entry Template Group";
+"EMPTY_TRASH" = "Rensa Papperskorgen";
+"MOVE_ENTRY" = "Flytta Entry";
+"MOVE_GROUP" = "Flytta Group";
+"NEW_ENTRY_WITH_TEMPLATE_%@" = "Create Entry with Template %@";
+"NEW_DATABASE" = "Databas";
+"OPEN_URL" = "Öppna URL";
+"PERFORM_AUTOTYPE_FOR_ENTRY" = "Utforma Autotype";
+"PREVIEW" = "Förhandsgranska";
+"PASSWORD_GENERATOR_SET_DEFAULTS" = "Sätt Defaults";
+"PASSWORD_GENERATOR_RESET_ENTRY_DEFAULTS" = "Reset";
+"TRASH_ENTRY" = "Flytta till papperskorgen Entry";
+"TRASH_GROUP" = "Flytta till papperskorgen Group";
+"SET_NAME" = "Redigera Name";
+"SET_TITLE" = "Redigera Title";
+"SET_USERNAME" = "Redigera Username";
+"SET_PASSWORD" = "Redigera Password";
+"SET_URL" = "Redigera URL";
+"SET_NOTES" = "Redigera Notes";
+"SHOW_HISTORY" = "Show History";
+
+/*
+ Search
+ */
+"CLEAR_RECENT_SEARCHES" = "Clear recent searches";
+"RECENT_SEARCHES" = "Recent searches";
+"SEARCH_DUPLICATE_PASSWORDS" = "Duplikera Passwords";
+"SEARCH_EXPIRED_ENTRIES" = "Expired";
+"SELECT_FILTER_WITH_DOTS" = "Select…";
+
+/*
+ Direct Translations
+ */
+"ACTION" = "Action";
+"ATTACHMENTS" = "Attachments";
+"CANCEL" = "Cancel";
+"DATABASE" = "Databas";
+"DELETE" = "Delete";
+"EDIT" = "Redigera";
+"EMAIL" = "EMail";
+"GROUP" = "Group";
+"GENERAL" = "General";
+"HOMEBANKING" = "Homebanking";
+"INSPECTOR" = "Inspector";
+"INTERNET" = "Internet";
+"LOCK" = "Lock";
+"MODIFIED" = "Modified";
+"NAME" = "Name";
+"NETWORK" = "Network";
+"NONE" = "None";
+"NOTES" = "Notes";
+"PASSWORD" = "Password";
+"SAVE" = "Save";
+"SAVE_WITH_DOTS" = "Save…";
+"SEARCH" = "Search";
+"TITLE" = "Title";
+"TRASH" = "Trash";
+"URL" = "URL";
+"USERNAME" = "Username";
+"WINDOWS" = "Windows";
+
+
+"CHANGE_DATABASE_NAME" = "Change Databas Name";
+"CHANGE_TRASH_GROUP" = "Change Trash Group";
+"%@_COPY" = "%@ Copy";
+
+"DUPLICTE_PASSWORDS" = "Duplikera Passwords";
+
+/* Field nam that was copied to the pasteboard */
+"COPIED_FIELD_%@" = "Copied %@";
+"COPIED_PASSWORD" = "Password copied!";
+"COPIED_URL" = "URL copied!";
+"COPIED_USERNAME" = "Username copied!";
+"COPY_CUSTOM_FIELDS" = "Copy Custom Fields";
+"COPY_FIELD_%@" = "Copy %@";
+"COPY_PASSWORD" = "Copy Password";
+"COPY_URL" = "Copy URL";
+"COPY_USERNAME" = "Copy Username";
+
+/* Dock Badge */
+"CLEARING_PASTEBOARD" = "…";
+
+/* Group Inspector */
+/* Autotype Combobox */
+"AUTOTYPE_NO" = "Disable Autotype";
+"AUTOTYPE_YES" = "Enable Autotype";
+"AUTOTYPE_INHERIT" = "Inherit Autotype Settings";
+
+/* Search Combobox */
+"SEARCH_INHERIT" = "Inherit Search Settings";
+"SEARCH_YES" = "Include in Search";
+"SEARCH_NO" = "Exclude from Search";
+
+/*
+ Date/Time Displays
+ */
+/* Created at template string. %@ is replaced by localized date and time */
+"CREATED_AT_%@" = "Created: %@";
+/* Modifed at template string. %@ is replaced by localized date and time */
+"MODIFED_AT_%@" = "Modified: %@";
+
+"EXPIRES_AT_DATE_%@" = "Expires: %@";
+"NO_EXPIRE_DATE_SET" = "Never expires.";
+
+/*
+ Defaults for new objects
+ */
+"DEFAULT_CUSTOM_FIELD_TITLE" = "Custom";
+"DEFAULT_CUSTOM_FIELD_VALUE" = "Value";
+"DEFAULT_ENTRY_TITLE" = "New Entry";
+"DEFAULT_GROUP_NAME" = "New Group";
+"DEFAULT_WINDOW_TITLE" = "Window Title";
+
+/* Number of Entries
+ Plural (0, >1)
+ Singular (1)
+ */
+"%ld_ENTRIES" = "%ld Entries";
+"%ld_ENTRY" = "%ld Entry";
+
+/* Settings */
+"GENERAL_SETTINGS" = "General";
+"INTEGRATION_SETTINGS" = "Integration";
+"UPDATE_SETTINGS" = "Updates";
+"WORKFLOW_SETTINGS" = "Workflow";
+"DEFAULT_BROWSER" = "Default Browser";
+"OTHER_BROWSER" = "Select Browser…";
+"PLUGIN_SETTINGS" = "Plugins";
+
+/* Feature not supported in Version */
+"KDBX_ONLY_FEATURE" = "Feature not supported in KDB database";
+
+/* Template */
+"NO_TEMPLATE_GROUP" = "No Templates";
+"NO_TEMPLATES" = "No Templates found";
+
+/* Kefile */
+"SAVE_KEYFILE" = "Save Keyfile";
+
+/* Autoype */
+/* Candiate dialog */
+"SELECT_AUTOTYPE_CANDIDATE" = "Select candidate!";
+"AUTOTYPE_OVERLAY_NO_DOCUMENTS" = "Please open a file to use Global Autotype!";
+"AUTOTYPE_OVERLAY_NO_MATCH_FOR_%@" = "No Match for %@!";
+"AUTOTYPE_OVERLAY_SINGLE_MATCH" = "Match!";
+
+/* Alert Dialogs */
+"WARNING_ON_EMPTY_TRASH_DESCRIPTION" = "Rensa the Trash is not undoable.";
+"WARNING_ON_EMPTY_TRASH_TITLE" = "Rensa Trash?";
+"WARNING_ON_LOSSY_SAVE" = "Saving with KDB format, will lead to lost data.";
+"WARNING_ON_LOSSY_SAVE_DESCRIPTION" = "The KDB file format cannot hold all information.";
+"CHANGE_FORMAT" = "Change File Format to KDBX";
+"SAVE_LOSSY" = "Save and lose data";
+
+"ENFORCE_PASSWORD_CHANGE_ALERT_TITLE" = "The database password expired!";
+"ENFORCE_PASSWORD_CHANGE_ALERT_DESCRIPTION" = "You will be unable to save until the password and/or keyfile has been changed.";
+
+"RECOMMEND_PASSWORD_CHANGE_ALERT_TITLE" = "Please change the database password!";
+"RECOMMEND_PASSWORD_CHANGE_ALERT_DESCRIPTION" = "It is recommended to change the password and/or keyfile.";
+"CHANGE_PASSWORD_WITH_DOTS" = "Change Password…";
+
+"WARNING_ON_SAVE_NO_PASSWORD_OR_KEY_SET" = "No password or keyfile is set.";
+"WARNING_ON_SAVE_NO_PASSWORD_OR_KEY_SET_SUGGESTION" = "Please set a password and/or keyfile for this database. Aborting this will undo all changes and lock the document";
+
+/* Message displayed when an open file was changed from another application */
+"FILE_CHANGED_BY_OTHERS_MESSAGE_TEXT" = "The database file was modified!";
+/* Informative text displayed when the file was change form another application */
+"FILE_CHANGED_BY_OTHERS_INFO_TEXT" = "The file loaded is not the same as the on on disk. How do you want to move on?";
+/* Set the selection as default file change strategy */
+"SET_AS_DEFAULT_FILE_CHANGE_STRATEGY" = "Use this method as default. You can change this at any time in the preferences.";
+/* Always show a dialog after an external file change */
+"FILE_CHANGE_STRATEGY_ASK" = "Fråga";
+"SHORT_FILE_CHANGE_STRATEGY_ASK" = "Fråga";
+/* Button to ignore the changes */
+"FILE_CHANGE_STRATEGY_KEEP_MINE" = "Använd min version och ignorera andra förändringar";
+"KEEP_MINE_DISCARD_OTHER" = "Använd Min, Ta bort Andra";
+/* Button to reload the changes form disk */
+"FILE_CHANGE_STRATEGY_USE_OTHER" = "Load Changed Version and Discard Mine";
+"KEEP_OTHER_DISCARD_MINE" = "Keep Other, Discard Mine";
+/* Merge changes into file! */
+"FILE_CHANGE_STRATEGY_MERGE" = "Merge Changes";
+
+/* Password Input Messages, Errors and Warning */
+"PASSWORD_INPUT_NO_PASSWORD" = "No Password";
+"PASSWORD_INPUT_ENTER_PASSWORD" = "Enter Password";
+"PASSWORD_INPUT_REPEAT_PASSWORD" = "Repeat Password";
+"WARNING_NO_PASSWORD_OR_KEYFILE" = "No password or keyfile supplied!";
+"ERROR_PASSWORD_MISSMATCH_INVALID_KEYFILE" = "Passwords do not match and keyfile is invalid!";
+"ERROR_PASSWORD_MISSMATCH" = "Passwords do not match!";
+"ERROR_INVALID_KEYFILE" = "Keyfile is invalid!";
+
+/* Misc */
+"DOCUMENT_AUTOTYPE_CORRUPTION_WARNING" = "Please run Fix Autotype...";
+"FILE_OPEN_ERROR" = "Error opening file.";
